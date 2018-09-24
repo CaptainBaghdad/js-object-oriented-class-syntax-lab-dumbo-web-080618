@@ -11,9 +11,12 @@ class BoardMember{
   }
   
   approve(){
-    returns ""
+    return "You can do that!";
   }
   
+  doCharity(){
+    return "";
+  }
   
   
   

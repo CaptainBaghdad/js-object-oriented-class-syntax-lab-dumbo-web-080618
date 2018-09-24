@@ -6,4 +6,11 @@ class BoardMember{
     
   }
   
+  veto(){
+    return "";
+  }
+  
+  
+  
+  
 }

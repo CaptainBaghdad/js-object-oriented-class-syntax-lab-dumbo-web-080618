@@ -1,3 +1,3 @@
-class BoardMembers{
+class BoardMember{
   
 }
